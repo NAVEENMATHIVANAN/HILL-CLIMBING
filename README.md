@@ -165,4 +165,3 @@ Score: 0  Solution :  Artificial Intelligence<br>
 
 Thus the Simple Hill Climb Algorithm Implemented successfully.
 
-](https://github.com/NAVEENMATHIVANAN/A-STAR)
